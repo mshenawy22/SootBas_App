@@ -1,3 +1,12 @@
+An attempt to recreate Sootbas app (www.sootbas.com) app using flutter 
+The current app is developed nativelt and haven't been updated for over a year.
+https://play.google.com/store/apps/details?id=com.sootbas.sootbasapp
+https://apps.apple.com/us/app/sootbas-social-media-in-voice/id1505130001
+
+
+The following is the original documentation of Anytime podcast player  
+
+
 ## Anytime Podcast Player
 
 This is the official repository for the Anytime Podcast Player - the simple Podcast playing app for Android & iOS, built with Dart & Flutter.
